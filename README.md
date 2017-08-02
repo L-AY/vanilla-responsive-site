@@ -4,5 +4,6 @@
 ![](img/vrs-homepage.png)
 
 **Composition Page:**
+![](img/vrs-composition.png)
 
 **Footnotes Page:**
