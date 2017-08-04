@@ -1,4 +1,4 @@
-# 4:44 - Vanilla Responsive Site
+# 4:44 Album - Vanilla Responsive Site
 
 **Homepage:**
 ![](img/vrs-homepage.png)
