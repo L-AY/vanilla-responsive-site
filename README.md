@@ -7,3 +7,4 @@
 ![](img/vrs-composition.png)
 
 **Footnotes Page:**
+![](img/vrs-footnotes.png)
